@@ -1,0 +1,59 @@
+{
+    "status": {
+        "timestamp": "2021-08-29T02:05:04.115531512Z",
+        "error_code": "",
+        "error_description": ""
+    },
+    "data": [{
+        "project_id": "7d9f417d-6646-4545-a992-48289a52f80c",
+        "project_name": "Bitcoin",
+        "project_slug": "bitcoin",
+        "cmc_id": 1,
+        "symbol": "BTC",
+        "metrics": [{
+            "name": "FCAS",
+            "slug": "fcas",
+            "timeseries": [{
+                "timestamp": "2018-01-01T00:00:00Z",
+                "unix_time": 1514764800,
+                "value": 896,
+                "moving_average": 896
+            }, {
+                "timestamp": "2018-01-02T00:00:00Z",
+                "unix_time": 1514851200,
+                "value": 896,
+                "moving_average": 896
+            }, {
+                "timestamp": "2018-01-03T00:00:00Z",
+                "unix_time": 1514937600,
+                "value": 897,
+                "moving_average": 896
+            }, {
+                "timestamp": "2018-01-04T00:00:00Z",
+                "unix_time": 1515024000,
+                "value": 897,
+                "moving_average": 897
+            }, {
+                "timestamp": "2018-01-05T00:00:00Z",
+                "unix_time": 1515110400,
+                "value": 895,
+                "moving_average": 896
+            }, {
+                "timestamp": "2018-01-06T00:00:00Z",
+                "unix_time": 1515196800,
+                "value": 895,
+                "moving_average": 896
+            }, {
+                "timestamp": "2018-01-07T00:00:00Z",
+                "unix_time": 1515283200,
+                "value": 893,
+                "moving_average": 894
+            }, {
+                "timestamp": "2018-01-08T00:00:00Z",
+                "unix_time": 1515369600,
+                "value": 893,
+                "moving_average": 894
+            }]
+        }]
+    }]
+}

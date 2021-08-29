@@ -1,0 +1,74 @@
+{
+    "status": {
+        "timestamp": "2021-08-28T22:01:01.562896263Z",
+        "error_code": "",
+        "error_description": ""
+    },
+    "data": [{
+        "project_id": "7d9f417d-6646-4545-a992-48289a52f80c",
+        "project_name": "Bitcoin",
+        "project_slug": "bitcoin",
+        "cmc_id": 1,
+        "symbol": "BTC",
+        "value": 834,
+        "previous_value": 833,
+        "metric_slug": "dev",
+        "timestamp": "2021-08-28T00:00:00Z",
+        "unix_time": 1630108800
+    }, {
+        "project_id": "0d73e808-8129-4448-81ef-413bfa10e252",
+        "project_name": "Ethereum Classic",
+        "project_slug": "ethereum-classic",
+        "cmc_id": 1321,
+        "symbol": "ETC",
+        "value": 769,
+        "previous_value": 784,
+        "metric_slug": "dev",
+        "timestamp": "2021-08-28T00:00:00Z",
+        "unix_time": 1630108800
+    }, {
+        "project_id": "4d85843e-7513-48aa-bd85-f586f71553b0",
+        "project_name": "EOS",
+        "project_slug": "eos",
+        "cmc_id": 1765,
+        "symbol": "EOS",
+        "value": 881,
+        "previous_value": 880,
+        "metric_slug": "dev",
+        "timestamp": "2021-08-28T00:00:00Z",
+        "unix_time": 1630108800
+    }, {
+        "project_id": "2e8b4f74-1103-434a-b58c-0d4d7c646369",
+        "project_name": "Dai",
+        "project_slug": "dai",
+        "cmc_id": 2308,
+        "symbol": "DAI",
+        "value": 927,
+        "previous_value": 929,
+        "metric_slug": "dev",
+        "timestamp": "2020-01-22T00:00:00Z",
+        "unix_time": 1579651200
+    }, {
+        "project_id": "af5ef080-5c7b-423a-b06d-01a1e3a3b57f",
+        "project_name": "Ethereum",
+        "project_slug": "ethereum",
+        "cmc_id": 1027,
+        "symbol": "ETH",
+        "value": 961,
+        "previous_value": 959,
+        "metric_slug": "dev",
+        "timestamp": "2021-08-28T00:00:00Z",
+        "unix_time": 1630108800
+    }, {
+        "project_id": "75565f3b-a0c5-4cb6-b201-437ef799150d",
+        "project_name": "Waves Community Token",
+        "project_slug": "wavescommunitytoken",
+        "cmc_id": 1527,
+        "symbol": "WCT",
+        "value": 818,
+        "previous_value": 818,
+        "metric_slug": "dev",
+        "timestamp": "2021-08-28T00:00:00Z",
+        "unix_time": 1630108800
+    }]
+}

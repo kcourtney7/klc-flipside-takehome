@@ -1,0 +1,93 @@
+{
+  "status": {
+    "timestamp": "2020-02-12T22:58:21.213659786Z",
+    "error_code": "",
+    "error_description": ""
+  },
+  "data": [
+    {
+      "project_id": "2e8b4f74-1103-434a-b58c-0d4d7c646369",
+      "project_name": "Dai",
+      "project_slug": "dai",
+      "cmc_id": 2308,
+      "symbol": "DAI",
+      "value": 942,
+      "previous_value": 932,
+      "metric_slug": "fcas",
+      "timestamp": "2019-11-29T00:00:00Z",
+      "unix_time": 1574985600
+    },
+    {
+      "project_id": "af5ef080-5c7b-423a-b06d-01a1e3a3b57f",
+      "project_name": "Ethereum",
+      "project_slug": "ethereum",
+      "cmc_id": 1027,
+      "symbol": "ETH",
+      "value": 940,
+      "previous_value": 932,
+      "metric_slug": "fcas",
+      "timestamp": "2020-02-12T00:00:00Z",
+      "unix_time": 1581465600
+    },
+    {
+      "project_id": "4d85843e-7513-48aa-bd85-f586f71553b0",
+      "project_name": "EOS",
+      "project_slug": "eos",
+      "cmc_id": 1765,
+      "symbol": "EOS",
+      "value": 927,
+      "previous_value": 926,
+      "metric_slug": "fcas",
+      "timestamp": "2020-02-12T00:00:00Z",
+      "unix_time": 1581465600
+    },
+    {
+      "project_id": "394998bd-0cb1-4ed3-ad3c-974100295602",
+      "project_name": "0x",
+      "project_slug": "0x",
+      "cmc_id": 1896,
+      "symbol": "ZRX",
+      "value": 911,
+      "previous_value": 904,
+      "metric_slug": "fcas",
+      "timestamp": "2020-02-12T00:00:00Z",
+      "unix_time": 1581465600
+    },
+    {
+      "project_id": "0d73e808-8129-4448-81ef-413bfa10e252",
+      "project_name": "Ethereum Classic",
+      "project_slug": "ethereum-classic",
+      "cmc_id": 1321,
+      "symbol": "ETC",
+      "value": 896,
+      "previous_value": 893,
+      "metric_slug": "fcas",
+      "timestamp": "2020-02-12T00:00:00Z",
+      "unix_time": 1581465600
+    },
+    {
+      "project_id": "7d9f417d-6646-4545-a992-48289a52f80c",
+      "project_name": "Bitcoin",
+      "project_slug": "bitcoin",
+      "cmc_id": 1,
+      "symbol": "BTC",
+      "value": 895,
+      "previous_value": 895,
+      "metric_slug": "fcas",
+      "timestamp": "2020-02-12T00:00:00Z",
+      "unix_time": 1581465600
+    },
+    {
+      "project_id": "0685fb80-1b9f-4f09-a617-989f8899e0b6",
+      "project_name": "REBL",
+      "project_slug": "",
+      "cmc_id": 2368,
+      "symbol": "REBL",
+      "value": 58,
+      "previous_value": 66,
+      "metric_slug": "fcas",
+      "timestamp": "2020-02-12T00:00:00Z",
+      "unix_time": 1581465600
+    }
+  ]
+}
