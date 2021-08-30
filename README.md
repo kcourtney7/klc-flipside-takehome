@@ -1,3 +1,39 @@
+# Kate's Implementation
+
+To implement this solution, I first needed to build a data structure that would hold
+all the data that would need to be stored in the cells. 
+
+The `project_id` was the key because it was the same amongst all data. My plan for the FCAS
+trend line was to make another map with the `project_id` as the key and an array of time series data as the value.
+
+Then when I was building the table, I'd fetch the values from both maps and build the sparkline
+dynamically as I was pulling all the other data together.
+
+### Things I struggled with, and how I worked around them
+
+1. API calls
+    1. For some reason my 'fetch' calls kept getting JSON parse errors. 
+        1. To get around this and use the data, I saved the results to .JSON files to reference and pull from.
+    1. 'utility' calls never returned anything.
+        1. When I tried calling `getProjectRankMetrics('utility')` I didn't get anything back. I didn't spend too much time debugging it because I would have done essentially the same thing I was doing when I called `getProjectRankMetrics('dev')` so I thought my limited could be better spend working on something else
+        1. I guess I didn't really work around this, I more chose to ignore it and moved on.
+
+### Things I would add
+
+1. Completing all the user stories
+    1. figure out why 'utility' API call isn't working
+    1. finishing the FCAS sparkline
+        1. I was going to do this package: https://github.com/fnando/sparkline
+    1. sort table by 'fcas' in descending order
+    1. adding paging to the table
+1. Testing
+    1. There currently isn't any. That's bad.
+1. Use real API calls
+    1. I like to develop with smaller sets of input data. I think it's easier to keep track of if my code is doing what I expect if I have <12 items in the table.
+1. Attractiveness
+    1. I mean, the table doesn't look good. I'd fix that.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
